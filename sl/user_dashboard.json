@@ -63,5 +63,8 @@
     "61": "Ime mora obsegati od 3 do 150 znakov in je obvezno polje.",
     "62": "E-poštni naslov mora biti veljaven e-poštni naslov in je obvezno polje.",
     "63": "Trenutni geslo je obvezno polje.",
-    "64": "Novo geslo mora biti dolgo 10 ali več znakov in vsebovati vsaj eno malo in eno veliko črko, eno številko in en poseben znak."
+    "64": "Novo geslo mora biti dolgo 10 ali več znakov in vsebovati vsaj eno malo in eno veliko črko, eno številko in en poseben znak.",
+    "65": "Jezik",
+    "66": "Če ste spremenili jezik,",
+    "67": "ponovno naložite stran."
 }

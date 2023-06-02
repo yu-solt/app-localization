@@ -63,5 +63,8 @@
     "61": "Ime mora biti između 3 i 150 znakova i obavezno je polje.",
     "62": "Adresa e-pošte mora biti valjana adresa e-pošte i obavezno je polje.",
     "63": "Trenutna lozinka je obavezno polje.",
-    "64": "Nova lozinka mora biti 10 ili više znakova duljine i sadržavati najmanje jedno malo slovo, jedno veliko slovo, jednu znamenku i jedan poseban znak."
+    "64": "Nova lozinka mora biti 10 ili više znakova duljine i sadržavati najmanje jedno malo slovo, jedno veliko slovo, jednu znamenku i jedan poseban znak.",
+    "65": "Jezik",
+    "66": "Ako ste promijenili jezik,",
+    "67": "ponovno učitajte stranicu."
 }

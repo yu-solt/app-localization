@@ -63,5 +63,8 @@
     "61": "Name must be between 3 and 150 characters and is a required field.",
     "62": "Email Address must be a valid email address and is a required field.",
     "63": "Current Password is a required field.",
-    "64": "New Password must be 10 or more characters in length and contain at least one lowercase letter, one uppercase letter, one digit and one special character."
+    "64": "New Password must be 10 or more characters in length and contain at least one lowercase letter, one uppercase letter, one digit and one special character.",
+    "65": "Language",
+    "66": "If you have changed the language,",
+    "67": "reload the page."
 }

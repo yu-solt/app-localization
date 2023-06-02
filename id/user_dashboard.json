@@ -63,5 +63,8 @@
     "61": "Nama harus terdiri dari 3 hingga 150 karakter dan merupakan bidang yang wajib diisi.",
     "62": "Alamat Email harus berupa alamat email yang valid dan merupakan bidang yang wajib diisi.",
     "63": "Kata Sandi Saat Ini adalah bidang yang wajib diisi.",
-    "64": "Kata Sandi Baru harus terdiri dari 10 karakter atau lebih dan mengandung setidaknya satu huruf kecil, satu huruf besar, satu angka, dan satu karakter khusus."
+    "64": "Kata Sandi Baru harus terdiri dari 10 karakter atau lebih dan mengandung setidaknya satu huruf kecil, satu huruf besar, satu angka, dan satu karakter khusus.",
+    "65": "Bahasa",
+    "66": "Jika Anda telah mengubah bahasa,",
+    "67": "memuat ulang halaman."
 }

@@ -10,6 +10,7 @@ Translate and Amazon Translate.
 | Guest    | Complete |
 | End User | Complete |
 | Admin    | -        |
+| Email    | -        |
 
 ## Supported Languages
 

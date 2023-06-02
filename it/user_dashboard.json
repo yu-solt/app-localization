@@ -63,5 +63,8 @@
     "61": "Il nome deve essere compreso tra 3 e 150 caratteri ed è un campo obbligatorio.",
     "62": "L'indirizzo e-mail deve essere un indirizzo e-mail valido ed è un campo obbligatorio.",
     "63": "La password corrente è un campo obbligatorio.",
-    "64": "La nuova password deve essere composta da 10 o più caratteri e contenere almeno una lettera minuscola, una lettera maiuscola, una cifra e un carattere speciale."
+    "64": "La nuova password deve essere composta da 10 o più caratteri e contenere almeno una lettera minuscola, una lettera maiuscola, una cifra e un carattere speciale.",
+    "65": "Lingua",
+    "66": "Se si è cambiata la lingua,",
+    "67": "ricaricare la pagina."
 }

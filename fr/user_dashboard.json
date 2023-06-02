@@ -63,5 +63,8 @@
     "61": "Le nom doit comporter entre 3 et 150 caractères et est un champ obligatoire.",
     "62": "L'adresse électronique doit être une adresse électronique valide et est un champ obligatoire.",
     "63": "Le mot de passe actuel est un champ obligatoire.",
-    "64": "Le nouveau mot de passe doit comporter 10 caractères ou plus et contenir au moins une lettre minuscule, une lettre majuscule, un chiffre et un caractère spécial."
+    "64": "Le nouveau mot de passe doit comporter 10 caractères ou plus et contenir au moins une lettre minuscule, une lettre majuscule, un chiffre et un caractère spécial.",
+    "65": "Langue",
+    "66": "Si vous avez changé de langue,",
+    "67": "recharger la page."
 }

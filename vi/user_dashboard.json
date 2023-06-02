@@ -63,5 +63,8 @@
     "61": "Tên phải có từ 3 đến 150 ký tự và là trường bắt buộc.",
     "62": "Địa chỉ Email phải là địa chỉ email hợp lệ và là trường bắt buộc.",
     "63": "Mật khẩu hiện tại là một trường bắt buộc.",
-    "64": "Mật khẩu mới phải có độ dài từ 10 ký tự trở lên và chứa ít nhất một chữ thường, một chữ hoa, một chữ số và một ký tự đặc biệt."
+    "64": "Mật khẩu mới phải có độ dài từ 10 ký tự trở lên và chứa ít nhất một chữ thường, một chữ hoa, một chữ số và một ký tự đặc biệt.",
+    "65": "Ngôn ngữ",
+    "66": "Nếu bạn đã thay đổi ngôn ngữ,",
+    "67": "tải lại trang."
 }

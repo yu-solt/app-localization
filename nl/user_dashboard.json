@@ -63,5 +63,8 @@
     "61": "De naam moet tussen 3 en 150 tekens lang zijn en is een verplicht veld.",
     "62": "E-mailadres moet een geldig e-mailadres zijn en is een verplicht veld.",
     "63": "Huidig wachtwoord is een verplicht veld.",
-    "64": "Het nieuwe wachtwoord moet 10 of meer tekens lang zijn en ten minste één kleine letter, één hoofdletter, één cijfer en één speciaal teken bevatten."
+    "64": "Het nieuwe wachtwoord moet 10 of meer tekens lang zijn en ten minste één kleine letter, één hoofdletter, één cijfer en één speciaal teken bevatten.",
+    "65": "Taal",
+    "66": "Als u de taal hebt gewijzigd,",
+    "67": "de pagina opnieuw laden."
 }
