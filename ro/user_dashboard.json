@@ -63,5 +63,8 @@
     "61": "Numele trebuie să aibă între 3 și 150 de caractere și este un câmp obligatoriu.",
     "62": "Adresa de e-mail trebuie să fie o adresă de e-mail validă și este un câmp obligatoriu.",
     "63": "Parola curentă este un câmp obligatoriu.",
-    "64": "Parola nouă trebuie să aibă o lungime de 10 sau mai multe caractere și să conțină cel puțin o literă mică, o literă mare, o cifră și un caracter special."
+    "64": "Parola nouă trebuie să aibă o lungime de 10 sau mai multe caractere și să conțină cel puțin o literă mică, o literă mare, o cifră și un caracter special.",
+    "65": "Limbă",
+    "66": "Dacă ați schimbat limba,",
+    "67": "reîncărcați pagina."
 }

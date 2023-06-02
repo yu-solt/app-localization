@@ -63,5 +63,8 @@
     "61": "Der Name muss zwischen 3 und 150 Zeichen lang sein und ist ein Pflichtfeld.",
     "62": "Die E-Mail-Adresse muss eine gültige E-Mail-Adresse sein und ist ein Pflichtfeld.",
     "63": "Das aktuelle Passwort ist ein Pflichtfeld.",
-    "64": "Das neue Passwort muss mindestens 10 Zeichen lang sein und mindestens einen Kleinbuchstaben, einen Großbuchstaben, eine Ziffer und ein Sonderzeichen enthalten."
+    "64": "Das neue Passwort muss mindestens 10 Zeichen lang sein und mindestens einen Kleinbuchstaben, einen Großbuchstaben, eine Ziffer und ein Sonderzeichen enthalten.",
+    "65": "Sprache",
+    "66": "Wenn Sie die Sprache geändert haben,",
+    "67": "die Seite neu laden."
 }

@@ -63,5 +63,8 @@
     "61": "Nimen on oltava 3—150 merkkiä ja se on pakollinen kenttä.",
     "62": "Sähköpostiosoitteen on oltava kelvollinen sähköpostiosoite ja pakollinen kenttä.",
     "63": "Nykyinen salasana on pakollinen kenttä.",
-    "64": "Uuden salasanan on oltava vähintään 10 merkkiä pitkä ja siinä on oltava vähintään yksi pieni kirjain, yksi iso kirjain, yksi numero ja yksi erikoismerkki."
+    "64": "Uuden salasanan on oltava vähintään 10 merkkiä pitkä ja siinä on oltava vähintään yksi pieni kirjain, yksi iso kirjain, yksi numero ja yksi erikoismerkki.",
+    "65": "Kieli",
+    "66": "Jos olet vaihtanut kieltä,",
+    "67": "lataa sivu uudelleen."
 }

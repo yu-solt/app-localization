@@ -63,5 +63,8 @@
     "61": "Namnet måste vara mellan 3 och 150 tecken och är ett obligatoriskt fält.",
     "62": "E-postadressen måste vara en giltig e-postadress och är ett obligatoriskt fält.",
     "63": "Aktuellt lösenord är ett obligatoriskt fält.",
-    "64": "Nytt lösenord måste vara 10 eller fler tecken långa och innehålla minst en liten bokstav, en stor bokstav, en siffra och ett specialtecken."
+    "64": "Nytt lösenord måste vara 10 eller fler tecken långa och innehålla minst en liten bokstav, en stor bokstav, en siffra och ett specialtecken.",
+    "65": "Språk",
+    "66": "Om du har ändrat språket,",
+    "67": "ladda om sidan."
 }
