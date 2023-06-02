@@ -56,5 +56,6 @@
     "54": "Port 443 can't be used.",
     "55": "Error. Missing data found. Please refresh the page.",
     "56": "Ports updated successfully. It may take a few minutes for the changes to propagate.",
-    "57": "No changes were made."
+    "57": "No changes were made.",
+    "58": "Update"
 }

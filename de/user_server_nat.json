@@ -56,5 +56,6 @@
     "54": "Port 443 kann nicht verwendet werden.",
     "55": "Fehler: Fehlende Daten gefunden. Bitte aktualisieren Sie die Seite.",
     "56": "Die Ports wurden erfolgreich aktualisiert. Es kann ein paar Minuten dauern, bis die Änderungen übertragen werden.",
-    "57": "Es wurden keine Änderungen vorgenommen."
+    "57": "Es wurden keine Änderungen vorgenommen.",
+    "58": "Update"
 }
