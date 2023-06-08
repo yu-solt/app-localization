@@ -24,7 +24,7 @@
     "22": "Verkeer",
     "23": "Bladwijzer verwijderen",
     "24": "Bladwijzer",
-    "25": "Geen gebrandmerkte servers gevonden",
+    "25": "Geen gemarkeerde servers gevonden",
     "26": "Geen servers gevonden",
     "27": "Onlangs voltooide taken",
     "28": "Server succesvol verwijderd.",
@@ -39,5 +39,5 @@
     "37": "Maak",
     "38": "Server",
     "39": "Alle Servers",
-    "40": "Een of meer van uw servers zijn gemarkeerd als onderhoud en zijn niet toegankelijk. Het systeem waar uw server op staat is momenteel in onderhoud en zal binnenkort weer beschikbaar zijn."
+    "40": "Een of meer van uw servers zijn gemarkeerd als in onderhoud en zijn niet toegankelijk. Het systeem waar uw server op staat is momenteel in onderhoud en zal binnenkort weer beschikbaar zijn."
 }
