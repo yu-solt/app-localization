@@ -46,4 +46,5 @@ Translate and Amazon Translate.
 | ur    | اردو (Urdu)                                     |
 | vi    | Tiếng Việt (Vietnamese)                         |
 | zh    | 中文 (Chinese)                                    |
+| zh_TW | 中文 (Chinese Traditional)                        |
 

@@ -22,5 +22,8 @@
     "20": "d",
     "21": "giờ",
     "22": "tối thiểu",
-    "23": "giây"
+    "23": "giây",
+    "24": "Hủy",
+    "25": "Một nhiệm vụ bảo trì hệ thống đang được tiến hành tại thời điểm hành động này được yêu cầu. Các yêu cầu khác có thể sẽ bị hủy bỏ cho đến khi hoàn tất nhiệm vụ bảo trì hệ thống. Thử lại trong năm phút.",
+    "26": "Hệ thống không đáp ứng yêu cầu hành động. Các nỗ lực tiếp theo có thể sẽ bị hủy bỏ cho đến khi hệ thống đáp ứng bình thường. Thử lại trong năm phút."
 }

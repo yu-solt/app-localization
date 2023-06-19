@@ -22,5 +22,8 @@
     "20": "d",
     "21": "hr",
     "22": "min",
-    "23": "sek"
+    "23": "sek",
+    "24": "Peruutettu",
+    "25": "Järjestelmän ylläpitotehtävä oli käynnissä, kun tätä toimenpidettä pyydettiin. Lisäpyynnöt todennäköisesti peruutetaan, kunnes järjestelmän ylläpitotehtävä on suoritettu. Yritä uudelleen viiden minuutin kuluttua.",
+    "26": "Järjestelmä ei vastannut toimintapyyntöön. Muita yrityksiä todennäköisesti peruutetaan, kunnes järjestelmä reagoi normaalisti. Yritä uudelleen viiden minuutin kuluttua."
 }

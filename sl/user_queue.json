@@ -22,5 +22,8 @@
     "20": "d",
     "21": "hr",
     "22": "min",
-    "23": "sec"
+    "23": "sec",
+    "24": "Preklicano",
+    "25": "V času, ko je bilo zahtevano to dejanje, je potekalo opravilo vzdrževanja sistema. Nadaljnje zahteve bodo verjetno preklicane, dokler se opravilo vzdrževanja sistema ne zaključi. Poskusite znova čez pet minut.",
+    "26": "Sistem se ni odzval na zahtevo za ukrepanje. Nadaljnji poskusi bodo verjetno preklicani, dokler se sistem ne odzove normalno. Poskusite znova čez pet minut."
 }

@@ -22,5 +22,8 @@
     "20": "d",
     "21": "hr",
     "22": "min",
-    "23": "sec"
+    "23": "sec",
+    "24": "Cancelado",
+    "25": "Uma tarefa de manutenção do sistema estava em andamento no momento em que essa ação foi solicitada. É provável que outras solicitações sejam canceladas até que a tarefa de manutenção do sistema seja concluída. Tente novamente em cinco minutos.",
+    "26": "O sistema não conseguiu responder à solicitação de ação. É provável que outras tentativas sejam canceladas até que o sistema esteja respondendo normalmente. Tente novamente em cinco minutos."
 }

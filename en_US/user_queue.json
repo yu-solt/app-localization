@@ -22,5 +22,8 @@
     "20": "d",
     "21": "hr",
     "22": "min",
-    "23": "sec"
+    "23": "sec",
+    "24": "Cancelled",
+    "25": "A system maintenance task was in progress at the time this action was requested. Further requests are likely to be cancelled until the system maintenance task has completed. Try again in five minutes.",
+    "26": "The system failed to respond to the action request. Further attempts are likely to be cancelled until the system is responding normally. Try again in five minutes."
 }

@@ -22,5 +22,8 @@
     "20": "d",
     "21": "hr",
     "22": "min",
-    "23": "sn"
+    "23": "sn",
+    "24": "İptal Edildi",
+    "25": "Bu eylem talep edildiği sırada bir sistem bakım görevi devam ediyordu. Sistem bakım görevi tamamlanana kadar başka talepler iptal edilebilir. Beş dakika sonra tekrar deneyin.",
+    "26": "Sistem eylem isteğine yanıt veremedi. Sistem normal yanıt verene kadar diğer denemelerin iptal edilmesi muhtemeldir. 5 dakika içinde tekrar deneyin."
 }

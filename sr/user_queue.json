@@ -22,5 +22,8 @@
     "20": "d",
     "21": "hr",
     "22": "min",
-    "23": "sek"
+    "23": "sek",
+    "24": "Otkazano",
+    "25": "Zadatak održavanja sistema je bio u toku u vreme kada je ova akcija tražena. Dalji zahtevi će verovatno biti otkazani dok se zadatak održavanja sistema ne završi. Pokušajte ponovo za pet minuta.",
+    "26": "Sistem nije uspeo da odgovori na zahtev za akciju. Dalji pokušaji će verovatno biti otkazani dok sistem ne reaguje normalno. Pokušajte ponovo za pet minuta."
 }

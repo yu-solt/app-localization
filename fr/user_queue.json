@@ -22,5 +22,8 @@
     "20": "d",
     "21": "hr",
     "22": "min",
-    "23": "sec"
+    "23": "sec",
+    "24": "Annulé",
+    "25": "Une tâche de maintenance du système était en cours au moment où cette action a été demandée. Les demandes ultérieures sont susceptibles d'être annulées jusqu'à ce que la tâche de maintenance du système soit terminée. Réessayez dans cinq minutes.",
+    "26": "Le système n'a pas répondu à la demande d'action. Les tentatives ultérieures seront probablement annulées jusqu'à ce que le système réponde normalement. Réessayez dans cinq minutes."
 }

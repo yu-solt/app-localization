@@ -22,5 +22,8 @@
     "20": "d",
     "21": "hr",
     "22": "min",
-    "23": "sek"
+    "23": "sek",
+    "24": "Anulowane",
+    "25": "W momencie żądania tej akcji trwało zadanie konserwacji systemu. Kolejne żądania będą prawdopodobnie anulowane do czasu zakończenia zadania konserwacji systemu. Spróbuj ponownie za pięć minut.",
+    "26": "System nie odpowiedział na żądanie akcji. Kolejne próby będą prawdopodobnie anulowane do czasu, aż system zacznie odpowiadać normalnie. Spróbuj ponownie za pięć minut."
 }

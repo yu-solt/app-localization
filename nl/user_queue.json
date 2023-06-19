@@ -22,5 +22,8 @@
     "20": "d",
     "21": "hr",
     "22": "min",
-    "23": "sec"
+    "23": "sec",
+    "24": "Geannuleerd",
+    "25": "Er was een systeemonderhoudstaak bezig op het moment dat deze actie werd aangevraagd. Verdere verzoeken worden waarschijnlijk geannuleerd totdat de systeemonderhoudstaak is voltooid. Probeer het opnieuw over vijf minuten.",
+    "26": "Het systeem heeft niet gereageerd op het actieverzoek. Verdere pogingen worden waarschijnlijk geannuleerd totdat het systeem normaal reageert. Probeer het opnieuw over vijf minuten."
 }

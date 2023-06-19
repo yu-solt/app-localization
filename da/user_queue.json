@@ -22,5 +22,8 @@
     "20": "d",
     "21": "hr",
     "22": "min",
-    "23": "sek"
+    "23": "sek",
+    "24": "Aflyst",
+    "25": "En systemvedligeholdelsesopgave var i gang på det tidspunkt, hvor denne handling blev anmodet om. Yderligere anmodninger vil sandsynligvis blive annulleret, indtil systemvedligeholdelsesopgaven er afsluttet. Prøv igen om fem minutter.",
+    "26": "Systemet har ikke reageret på anmodningen om handling. Yderligere forsøg vil sandsynligvis blive afbrudt, indtil systemet reagerer normalt. Prøv igen om fem minutter."
 }
