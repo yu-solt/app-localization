@@ -32,6 +32,7 @@ Translate and Amazon Translate.
 | id    | Indonesia (Indonesian)                          |
 | it    | Italiano (Italian)                              |
 | ja    | 日本語 (Japanese)                                  |
+| ko    | 한국인 (Korean)                                    |
 | nl    | Nederlands (Dutch)                              |
 | pl    | Polski (Polish)                                 |
 | pt_BR | Português (Portuguese)                          |
