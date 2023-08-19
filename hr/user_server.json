@@ -310,5 +310,7 @@
     "311": "IPv6 adresa je uspješno onemogućena. Za primjenu promjena na poslužitelju potrebno je ponovno pokretanje.",
     "312": "Jeste li sigurni da želite izmijeniti mrežu poslužitelja?",
     "313": "Spremi",
-    "314": "Ovisno o instaliranom operativnom sustavu i načinu konfiguriranja umrežavanja na poslužitelju, možda neće biti moguće primijeniti te promjene."
+    "314": "Ovisno o instaliranom operativnom sustavu i načinu konfiguriranja umrežavanja na poslužitelju, možda neće biti moguće primijeniti te promjene.",
+    "315": "Ime mora biti 3 znakova ili više i obavezno je polje.",
+    "316": "Naziv hosta nevažeći."
 }

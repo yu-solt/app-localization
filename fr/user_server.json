@@ -310,5 +310,7 @@
     "311": "L'adresse IPv6 a été désactivée avec succès. Un redémarrage est nécessaire pour appliquer les modifications au serveur.",
     "312": "Êtes-vous sûr de vouloir modifier le réseau du serveur ?",
     "313": "Économiser",
-    "314": "En fonction du système d'exploitation installé et de la manière dont le réseau a été configuré sur le serveur, il peut être impossible d'appliquer ces changements."
+    "314": "En fonction du système d'exploitation installé et de la manière dont le réseau a été configuré sur le serveur, il peut être impossible d'appliquer ces changements.",
+    "315": "Le nom doit comporter au moins 3 caractères et est un champ obligatoire.",
+    "316": "Le nom d'hôte n'est pas valide."
 }

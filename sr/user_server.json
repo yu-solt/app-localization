@@ -310,5 +310,7 @@
     "311": "IPv6 adresa je uspešno onemogućena. Za primenu promena na serveru potrebno je ponovno pokretanje.",
     "312": "Da li ste sigurni da želite da izmenite serversku mrežu?",
     "313": "Sačuvaj",
-    "314": "Zavisno od instaliranog operativnog sistema i načina na koji je umrežavanje konfigurisano na serveru, možda neće biti moguće primeniti ove promene."
+    "314": "Zavisno od instaliranog operativnog sistema i načina na koji je umrežavanje konfigurisano na serveru, možda neće biti moguće primeniti ove promene.",
+    "315": "Ime mora biti KSNUMKS znakova ili više i obavezno polje.",
+    "316": "Ime hosta nevažeći."
 }

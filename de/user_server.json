@@ -310,5 +310,7 @@
     "311": "IPv6-Adresse erfolgreich deaktiviert. Ein Neustart ist erforderlich, um die Änderungen auf dem Server zu übernehmen.",
     "312": "Sind Sie sicher, dass Sie das Servernetzwerk ändern wollen?",
     "313": "Speichern Sie",
-    "314": "Abhängig vom installierten Betriebssystem und der Netzwerkkonfiguration des Servers können diese Änderungen möglicherweise nicht übernommen werden."
+    "314": "Abhängig vom installierten Betriebssystem und der Netzwerkkonfiguration des Servers können diese Änderungen möglicherweise nicht übernommen werden.",
+    "315": "Der Name muss mindestens 3 Zeichen lang sein und ist ein Pflichtfeld.",
+    "316": "Hostname ungültig."
 }

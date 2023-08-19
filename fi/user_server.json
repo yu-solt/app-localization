@@ -310,5 +310,7 @@
     "311": "IPv6-osoite poistettu käytöstä onnistuneesti. Uudelleenkäynnistys vaaditaan muutosten tekemiseksi palvelimeen.",
     "312": "Oletko varma, että haluat muokata palvelinverkkoa?",
     "313": "Tallentaa",
-    "314": "Riippuen asennetusta käyttöjärjestelmästä ja siitä, miten verkottuminen on määritetty palvelimessa, näitä muutoksia ei ehkä voida soveltaa."
+    "314": "Riippuen asennetusta käyttöjärjestelmästä ja siitä, miten verkottuminen on määritetty palvelimessa, näitä muutoksia ei ehkä voida soveltaa.",
+    "315": "Nimen on oltava vähintään 3 merkkiä ja se on pakollinen kenttä.",
+    "316": "Isäntänimi on virheellinen."
 }

@@ -310,5 +310,7 @@
     "311": "IPv6 address disabled successfully. A restart is required to apply the changes to the server.",
     "312": "Are you sure you want to modify the server network?",
     "313": "Save",
-    "314": "Dependent on the operating system installed and how networking has been configured on the server, it may not be possible to apply these changes."
+    "314": "Dependent on the operating system installed and how networking has been configured on the server, it may not be possible to apply these changes.",
+    "315": "Name must be 3 characters or more and is a required field.",
+    "316": "Hostname invalid."
 }

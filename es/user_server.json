@@ -310,5 +310,7 @@
     "311": "Dirección IPv6 desactivada correctamente. Es necesario reiniciar el servidor para aplicar los cambios.",
     "312": "¿Estás seguro de que quieres modificar la red de servidores?",
     "313": "Guardar",
-    "314": "Dependiendo del sistema operativo instalado y de cómo se haya configurado la red en el servidor, puede que no sea posible aplicar estos cambios."
+    "314": "Dependiendo del sistema operativo instalado y de cómo se haya configurado la red en el servidor, puede que no sea posible aplicar estos cambios.",
+    "315": "El nombre debe tener 3 caracteres o más y es un campo obligatorio.",
+    "316": "Nombre de host inválido."
 }

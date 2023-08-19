@@ -310,5 +310,7 @@
     "311": "Naslov IPv6 je bil uspešno onemogočen. Za uporabo sprememb v strežniku je potreben ponovni zagon.",
     "312": "Ali ste prepričani, da želite spremeniti omrežje strežnika?",
     "313": "Shrani",
-    "314": "Odvisno od nameščenega operacijskega sistema in konfiguracije omrežja v strežniku teh sprememb morda ne bo mogoče uporabiti."
+    "314": "Odvisno od nameščenega operacijskega sistema in konfiguracije omrežja v strežniku teh sprememb morda ne bo mogoče uporabiti.",
+    "315": "Ime mora imeti 3 ali več znakov in je obvezno polje.",
+    "316": "Hostname invalid."
 }

@@ -310,5 +310,7 @@
     "311": "Indirizzo IPv6 disabilitato con successo. È necessario un riavvio per applicare le modifiche al server.",
     "312": "Siete sicuri di voler modificare la rete del server?",
     "313": "Risparmiare",
-    "314": "A seconda del sistema operativo installato e della configurazione di rete del server, potrebbe non essere possibile applicare queste modifiche."
+    "314": "A seconda del sistema operativo installato e della configurazione di rete del server, potrebbe non essere possibile applicare queste modifiche.",
+    "315": "Il nome deve essere di almeno 3 caratteri ed è un campo obbligatorio.",
+    "316": "Hostname non valido."
 }

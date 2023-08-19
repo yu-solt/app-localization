@@ -310,5 +310,7 @@
     "311": "Pomyślnie wyłączono adres IPv6. Do zastosowania zmian na serwerze wymagane jest ponowne uruchomienie.",
     "312": "Czy na pewno chcesz zmodyfikować sieć serwerów?",
     "313": "Zapisz",
-    "314": "W zależności od zainstalowanego systemu operacyjnego i sposobu skonfigurowania sieci na serwerze, zastosowanie tych zmian może nie być możliwe."
+    "314": "W zależności od zainstalowanego systemu operacyjnego i sposobu skonfigurowania sieci na serwerze, zastosowanie tych zmian może nie być możliwe.",
+    "315": "Nazwa musi składać się z co najmniej 3 znaków i jest polem wymaganym.",
+    "316": "Nazwa hosta jest nieprawidłowa."
 }

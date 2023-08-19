@@ -310,5 +310,7 @@
     "311": "IPv6-adres met succes uitgeschakeld. Er is een herstart nodig om de wijzigingen op de server toe te passen.",
     "312": "Weet je zeker dat je het servernetwerk wilt aanpassen?",
     "313": "Sla",
-    "314": "Afhankelijk van het geïnstalleerde besturingssysteem en hoe netwerken zijn geconfigureerd op de server, is het mogelijk dat deze wijzigingen niet kunnen worden toegepast."
+    "314": "Afhankelijk van het geïnstalleerde besturingssysteem en hoe netwerken zijn geconfigureerd op de server, is het mogelijk dat deze wijzigingen niet kunnen worden toegepast.",
+    "315": "De naam moet uit 3 tekens of meer bestaan en is een verplicht veld.",
+    "316": "Hostnaam ongeldig."
 }

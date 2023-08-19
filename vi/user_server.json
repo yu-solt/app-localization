@@ -310,5 +310,7 @@
     "311": "Địa chỉ IPv6 bị vô hiệu hóa thành công. Cần phải khởi động lại để áp dụng các thay đổi cho máy chủ.",
     "312": "Bạn có chắc chắn muốn sửa đổi mạng máy chủ không?",
     "313": "Lưu",
-    "314": "Tùy thuộc vào hệ điều hành được cài đặt và cách mạng đã được cấu hình trên máy chủ, có thể không áp dụng được những thay đổi này."
+    "314": "Tùy thuộc vào hệ điều hành được cài đặt và cách mạng đã được cấu hình trên máy chủ, có thể không áp dụng được những thay đổi này.",
+    "315": "Tên phải có 3 ký tự trở lên và là trường bắt buộc.",
+    "316": "Tên máy chủ không hợp lệ."
 }
