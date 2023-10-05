@@ -66,5 +66,9 @@
     "64": "Le nouveau mot de passe doit comporter 10 caractères ou plus et contenir au moins une lettre minuscule, une lettre majuscule, un chiffre et un caractère spécial.",
     "65": "Langue",
     "66": "Si vous avez changé de langue,",
-    "67": "Recharger la page."
+    "67": "Recharger la page.",
+    "68": "Trafic utilisé depuis le début de la semaine",
+    "69": "Trafic utilisé jusqu'à présent ce mois-ci. Toutes les heures sont basées sur",
+    "70": "Wk",
+    "71": "Mo"
 }

@@ -66,5 +66,9 @@
     "64": "New Password must be 10 or more characters in length and contain at least one lowercase letter, one uppercase letter, one digit and one special character.",
     "65": "Language",
     "66": "If you have changed the language,",
-    "67": "Reload the page."
+    "67": "Reload the page.",
+    "68": "Traffic used so far this week. All times based on",
+    "69": "Traffic used so far this month. All times based on",
+    "70": "Wk",
+    "71": "Mo"
 }

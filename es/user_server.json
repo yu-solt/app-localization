@@ -312,5 +312,6 @@
     "313": "Guardar",
     "314": "Dependiendo del sistema operativo instalado y de cómo se haya configurado la red en el servidor, puede que no sea posible aplicar estos cambios.",
     "315": "El nombre debe tener 3 caracteres o más y es un campo obligatorio.",
-    "316": "Nombre de host inválido."
+    "316": "Nombre de host inválido.",
+    "317": "Ocultar opciones avanzadas"
 }

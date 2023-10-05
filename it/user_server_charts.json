@@ -6,5 +6,10 @@
     "4": "Grafico non disponibile",
     "5": "CPU",
     "6": "Disco (primario)",
-    "7": "Memoria"
+    "7": "Memoria",
+    "8": "settimana",
+    "9": "d",
+    "10": "ore",
+    "11": "hr",
+    "12": "m"
 }

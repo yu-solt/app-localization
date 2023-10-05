@@ -312,5 +312,6 @@
     "313": "Shrani",
     "314": "Odvisno od nameščenega operacijskega sistema in konfiguracije omrežja v strežniku teh sprememb morda ne bo mogoče uporabiti.",
     "315": "Ime mora imeti 3 ali več znakov in je obvezno polje.",
-    "316": "Hostname invalid."
+    "316": "Hostname invalid.",
+    "317": "Skrijte napredne možnosti"
 }

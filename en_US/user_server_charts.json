@@ -6,5 +6,10 @@
     "4": "Chart unavailable",
     "5": "CPU",
     "6": "Disk (primary)",
-    "7": "Memory"
+    "7": "Memory",
+    "8": "wk",
+    "9": "d",
+    "10": "hrs",
+    "11": "hr",
+    "12": "m"
 }

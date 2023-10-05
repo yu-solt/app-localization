@@ -312,5 +312,6 @@
     "313": "Save",
     "314": "Dependent on the operating system installed and how networking has been configured on the server, it may not be possible to apply these changes.",
     "315": "Name must be 3 characters or more and is a required field.",
-    "316": "Hostname invalid."
+    "316": "Hostname invalid.",
+    "317": "Hide Advanced Options"
 }

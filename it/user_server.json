@@ -312,5 +312,6 @@
     "313": "Risparmiare",
     "314": "A seconda del sistema operativo installato e della configurazione di rete del server, potrebbe non essere possibile applicare queste modifiche.",
     "315": "Il nome deve essere di almeno 3 caratteri ed è un campo obbligatorio.",
-    "316": "Hostname non valido."
+    "316": "Hostname non valido.",
+    "317": "Nascondere le opzioni avanzate"
 }

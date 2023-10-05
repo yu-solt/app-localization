@@ -66,5 +66,9 @@
     "64": "Nytt lösenord måste vara 10 eller fler tecken långa och innehålla minst en liten bokstav, en stor bokstav, en siffra och ett specialtecken.",
     "65": "Språk",
     "66": "Om du har ändrat språket,",
-    "67": "Ladda om sidan."
+    "67": "Ladda om sidan.",
+    "68": "Trafiken har använts hittills denna vecka. Alla tider baserade på",
+    "69": "Trafiken används hittills denna månad. Alla tider baserade på",
+    "70": "Week",
+    "71": "Mo"
 }

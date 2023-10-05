@@ -312,5 +312,6 @@
     "313": "Gem",
     "314": "Afhængigt af det installerede operativsystem, og hvordan netværket er konfigureret på serveren, er det muligvis ikke muligt at anvende disse ændringer.",
     "315": "Navnet skal være på 3 tegn eller mere og er et obligatorisk felt.",
-    "316": "Værtsnavn ugyldigt."
+    "316": "Værtsnavn ugyldigt.",
+    "317": "Skjul avancerede indstillinger"
 }

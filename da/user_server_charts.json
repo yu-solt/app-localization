@@ -6,5 +6,10 @@
     "4": "Kortet er ikke tilgængeligt",
     "5": "CPU",
     "6": "Disk (primær)",
-    "7": "Hukommelse"
+    "7": "Hukommelse",
+    "8": "uge",
+    "9": "d",
+    "10": "timer",
+    "11": "hr",
+    "12": "m"
 }
