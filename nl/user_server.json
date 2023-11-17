@@ -313,5 +313,7 @@
     "314": "Afhankelijk van het geïnstalleerde besturingssysteem en hoe netwerken zijn geconfigureerd op de server, is het mogelijk dat deze wijzigingen niet kunnen worden toegepast.",
     "315": "De naam moet uit 3 tekens of meer bestaan en is een verplicht veld.",
     "316": "Hostnaam ongeldig.",
-    "317": "Geavanceerde opties verbergen"
+    "317": "Geavanceerde opties verbergen",
+    "318": "Specifiek routingblok",
+    "319": "Aan dit subnet is een routingblok gekoppeld dat nodig is voor IPv6-connectiviteit. De volgende gateway en het primaire adres zijn geconfigureerd:"
 }

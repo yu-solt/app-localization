@@ -313,5 +313,7 @@
     "314": "Odvisno od nameščenega operacijskega sistema in konfiguracije omrežja v strežniku teh sprememb morda ne bo mogoče uporabiti.",
     "315": "Ime mora imeti 3 ali več znakov in je obvezno polje.",
     "316": "Hostname invalid.",
-    "317": "Skrijte napredne možnosti"
+    "317": "Skrijte napredne možnosti",
+    "318": "Namenski usmerjevalni blok",
+    "319": "Temu podomrežju je bil priključen usmerjevalni blok, ki je potreben za povezljivost IPv6. Konfiguriran je bil naslednji prehod in primarni naslov:"
 }

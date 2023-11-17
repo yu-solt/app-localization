@@ -313,5 +313,7 @@
     "314": "În funcție de sistemul de operare instalat și de modul în care a fost configurată rețeaua pe server, este posibil să nu fie posibilă aplicarea acestor modificări.",
     "315": "Numele trebuie să aibă 3 caractere sau mai mult și este un câmp obligatoriu.",
     "316": "Nume gazdă nevalid.",
-    "317": "Ascundeți opțiunile avansate"
+    "317": "Ascundeți opțiunile avansate",
+    "318": "Bloc de rutare dedicat",
+    "319": "Un bloc de rutare a fost atașat la această subrețea și este necesar pentru conectivitatea IPv6. Următorul gateway și adresa primară au fost configurate:"
 }

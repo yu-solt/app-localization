@@ -313,5 +313,7 @@
     "314": "A telepített operációs rendszertől és a kiszolgáló hálózati konfigurációjától függően előfordulhat, hogy ezeket a módosításokat nem lehet alkalmazni.",
     "315": "A névnek legalább 3 karakterből kell állnia, és kötelezően kitöltendő mező.",
     "316": "Hostnév érvénytelen.",
-    "317": "Speciális beállítások elrejtése"
+    "317": "Speciális beállítások elrejtése",
+    "318": "Dedikált útválasztó blokk",
+    "319": "Ehhez az alhálózathoz egy útválasztó blokkot csatoltak, amely az IPv6-kapcsolathoz szükséges. A következő átjárót és elsődleges címet konfigurálták:"
 }

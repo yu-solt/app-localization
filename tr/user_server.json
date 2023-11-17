@@ -313,5 +313,7 @@
     "314": "Yüklü işletim sistemine ve sunucuda ağın nasıl yapılandırıldığına bağlı olarak, bu değişiklikleri uygulamak mümkün olmayabilir.",
     "315": "Ad 3 karakter veya daha fazla olmalıdır ve zorunlu bir alandır.",
     "316": "Ana bilgisayar adı geçersiz.",
-    "317": "Gelişmiş Seçenekleri Gizle"
+    "317": "Gelişmiş Seçenekleri Gizle",
+    "318": "Özel Yönlendirme Bloğu",
+    "319": "Bu alt ağa bir yönlendirme bloğu eklenmiştir ve IPv6 bağlantısı için gereklidir. Aşağıdaki ağ geçidi ve birincil adres yapılandırılmıştır:"
 }

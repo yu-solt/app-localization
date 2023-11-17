@@ -313,5 +313,7 @@
     "314": "V závislosti od nainštalovaného operačného systému a spôsobu konfigurácie siete na serveri nemusí byť možné tieto zmeny použiť.",
     "315": "Názov musí mať 3 alebo viac znakov a je to povinné pole.",
     "316": "Hostiteľské meno je neplatné.",
-    "317": "Skryť rozšírené možnosti"
+    "317": "Skryť rozšírené možnosti",
+    "318": "Vyhradený blok smerovania",
+    "319": "K tejto podsieti bol pripojený smerovací blok, ktorý je potrebný na pripojenie IPv6. Bola nakonfigurovaná nasledujúca brána a primárna adresa:"
 }

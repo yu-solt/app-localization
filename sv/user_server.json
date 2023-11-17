@@ -313,5 +313,7 @@
     "314": "Beroende på vilket operativsystem som är installerat och hur nätverket har konfigurerats på servern kanske det inte går att tillämpa dessa ändringar.",
     "315": "Namnet måste vara 3 tecken eller mer och är ett obligatoriskt fält.",
     "316": "Värdnamn ogiltigt.",
-    "317": "Dölj avancerade alternativ"
+    "317": "Dölj avancerade alternativ",
+    "318": "Dedikerat routningsblock",
+    "319": "Ett routingblock har kopplats till detta undernät och krävs för IPv6-anslutning. Följande gateway och primära adress har konfigurerats:"
 }

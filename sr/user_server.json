@@ -313,5 +313,7 @@
     "314": "Zavisno od instaliranog operativnog sistema i načina na koji je umrežavanje konfigurisano na serveru, možda neće biti moguće primeniti ove promene.",
     "315": "Ime mora biti KSNUMKS znakova ili više i obavezno polje.",
     "316": "Ime hosta nevažeći.",
-    "317": "Sakrij napredne opcije"
+    "317": "Sakrij napredne opcije",
+    "318": "Namenski blok za usmeravanje",
+    "319": "Na ovu podmrežu je priključen blok za rutiranje i potreban je za IPv6 povezivanje. Konfigurisani su sledeći prolaz i primarna adresa:"
 }

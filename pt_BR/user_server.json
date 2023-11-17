@@ -313,5 +313,7 @@
     "314": "Dependendo do sistema operacional instalado e de como a rede foi configurada no servidor, talvez não seja possível aplicar essas alterações.",
     "315": "O nome deve ter 3 caracteres ou mais e é um campo obrigatório.",
     "316": "Nome de host inválido.",
-    "317": "Ocultar opções avançadas"
+    "317": "Ocultar opções avançadas",
+    "318": "Bloco de roteamento dedicado",
+    "319": "Um bloco de roteamento foi anexado a essa sub-rede e é necessário para a conectividade IPv6. O seguinte gateway e endereço primário foram configurados:"
 }

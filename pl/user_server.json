@@ -313,5 +313,7 @@
     "314": "W zależności od zainstalowanego systemu operacyjnego i sposobu skonfigurowania sieci na serwerze, zastosowanie tych zmian może nie być możliwe.",
     "315": "Nazwa musi składać się z co najmniej 3 znaków i jest polem wymaganym.",
     "316": "Nazwa hosta jest nieprawidłowa.",
-    "317": "Ukryj opcje zaawansowane"
+    "317": "Ukryj opcje zaawansowane",
+    "318": "Dedykowany blok routingu",
+    "319": "Blok routingu został dołączony do tej podsieci i jest wymagany do łączności IPv6. Skonfigurowano następującą bramę i adres podstawowy:"
 }
