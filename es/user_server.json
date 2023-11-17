@@ -315,5 +315,5 @@
     "316": "Nombre de host inválido.",
     "317": "Ocultar opciones avanzadas",
     "318": "Bloque de enrutamiento dedicado",
-    "319": "Se ha adjuntado un bloque de enrutamiento a esta subred y es necesario para la conectividad IPv6. Se ha configurado la siguiente puerta de enlace y dirección primaria:"
+    "319": "Se ha adjuntado un bloque de enrutamiento a esta subred y es necesario para la conectividad IPv6. Se han configurado la siguiente puerta de enlace y dirección primaria:"
 }

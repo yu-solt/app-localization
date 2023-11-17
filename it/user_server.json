@@ -315,5 +315,5 @@
     "316": "Hostname non valido.",
     "317": "Nascondere le opzioni avanzate",
     "318": "Blocco di instradamento dedicato",
-    "319": "A questa sottorete è stato collegato un blocco di routing, necessario per la connettività IPv6. È stato configurato il seguente gateway e indirizzo primario:"
+    "319": "A questa sottorete è stato collegato un blocco di routing, necessario per la connettività IPv6. Sono stati configurati il gateway e l'indirizzo primario seguenti:"
 }
