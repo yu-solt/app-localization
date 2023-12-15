@@ -314,6 +314,7 @@
     "315": "Le nom doit comporter au moins 3 caractères et est un champ obligatoire.",
     "316": "Le nom d'hôte n'est pas valide.",
     "317": "Masquer les options avancées",
-    "318": "Bloc de routage dédié",
-    "319": "Un bloc de routage a été attaché à ce sous-réseau et est nécessaire pour la connectivité IPv6. La passerelle et l'adresse primaire suivantes ont été configurées :"
+    "318": "Sous-réseau de routage dédié",
+    "319": "Un sous-réseau de routage a été attaché à",
+    "320": "la passerelle et l'adresse primaire suivantes du sous-réseau de routage ont été configurées :"
 }

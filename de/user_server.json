@@ -314,6 +314,7 @@
     "315": "Der Name muss mindestens 3 Zeichen lang sein und ist ein Pflichtfeld.",
     "316": "Hostname ungültig.",
     "317": "Erweiterte Optionen ausblenden",
-    "318": "Dedizierter Routing-Block",
-    "319": "Diesem Subnetz wurde ein Routing-Block zugeordnet, der für die IPv6-Konnektivität erforderlich ist. Das folgende Gateway und die primäre Adresse wurden konfiguriert:"
+    "318": "Dediziertes Routing-Subnetz",
+    "319": "Ein Routing-Subnetz wurde angehängt an",
+    "320": "das folgende Gateway und die primäre Adresse des Routing-Subnetzes wurden konfiguriert:"
 }

@@ -314,6 +314,7 @@
     "315": "De naam moet uit 3 tekens of meer bestaan en is een verplicht veld.",
     "316": "Hostnaam ongeldig.",
     "317": "Geavanceerde opties verbergen",
-    "318": "Specifiek routingblok",
-    "319": "Aan dit subnet is een routingblok gekoppeld dat nodig is voor IPv6-connectiviteit. De volgende gateway en het primaire adres zijn geconfigureerd:"
+    "318": "Specifiek routingsubnet",
+    "319": "Er is een routingsubnet gekoppeld aan",
+    "320": "en is vereist voor IPv6-connectiviteit. De volgende gateway en het primaire adres van het routing-subnet zijn geconfigureerd:"
 }

@@ -314,6 +314,7 @@
     "315": "El nombre debe tener 3 caracteres o más y es un campo obligatorio.",
     "316": "Nombre de host inválido.",
     "317": "Ocultar opciones avanzadas",
-    "318": "Bloque de enrutamiento dedicado",
-    "319": "Se ha adjuntado un bloque de enrutamiento a esta subred y es necesario para la conectividad IPv6. Se han configurado la siguiente puerta de enlace y dirección primaria:"
+    "318": "Subred de enrutamiento dedicada",
+    "319": "Se ha adjuntado una subred de enrutamiento a",
+    "320": "y es necesaria para la conectividad IPv6. Se han configurado la siguiente puerta de enlace y la dirección primaria de la subred de enrutamiento:"
 }

@@ -314,6 +314,7 @@
     "315": "Nazwa musi składać się z co najmniej 3 znaków i jest polem wymaganym.",
     "316": "Nazwa hosta jest nieprawidłowa.",
     "317": "Ukryj opcje zaawansowane",
-    "318": "Dedykowany blok routingu",
-    "319": "Blok routingu został dołączony do tej podsieci i jest wymagany do łączności IPv6. Skonfigurowano następującą bramę i adres podstawowy:"
+    "318": "Dedykowana podsieć routingu",
+    "319": "Podsieć routingu została dołączona do",
+    "320": "i jest wymagany dla łączności IPv6. Skonfigurowano następującą bramę i adres podstawowy z podsieci routingu:"
 }

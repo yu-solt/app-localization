@@ -314,6 +314,7 @@
     "315": "Ime mora biti 3 znakova ili više i obavezno je polje.",
     "316": "Naziv hosta nevažeći.",
     "317": "Sakrij napredne opcije",
-    "318": "Namjenski blok usmjeravanja",
-    "319": "Blok usmjeravanja priključen je ovoj podmreži i potreban je za IPv6 povezivanje. Konfigurirani su sljedeći pristupnik i primarna adresa:"
+    "318": "Namjenska podmreža za usmjeravanje",
+    "319": "Priključena je podmreža za usmjeravanje",
+    "320": "i potreban je za IPv6 povezivanje. Konfigurirani su sljedeći pristupnik i primarna adresa iz podmreže usmjeravanja:"
 }

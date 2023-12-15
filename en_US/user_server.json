@@ -314,6 +314,7 @@
     "315": "Name must be 3 characters or more and is a required field.",
     "316": "Hostname invalid.",
     "317": "Hide Advanced Options",
-    "318": "Dedicated Routing Block",
-    "319": "A routing block has been attached to this subnet and is required for IPv6 connectivity. The following gateway and primary address have been configured:"
+    "318": "Dedicated Routing Subnet",
+    "319": "A routing subnet has been attached to",
+    "320": "and is required for IPv6 connectivity. The following gateway and primary address from the routing subnet have been configured:"
 }

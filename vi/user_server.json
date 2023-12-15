@@ -314,6 +314,7 @@
     "315": "Tên phải có 3 ký tự trở lên và là trường bắt buộc.",
     "316": "Tên máy chủ không hợp lệ.",
     "317": "Ẩn các tùy chọn nâng cao",
-    "318": "Khối định tuyến chuyên dụng",
-    "319": "Một khối định tuyến đã được gắn vào mạng con này và cần thiết cho kết nối IPv6. Cổng và địa chỉ chính sau đây đã được cấu hình:"
+    "318": "Mạng con định tuyến chuyên dụng",
+    "319": "Một mạng con định tuyến đã được gắn vào",
+    "320": "và được yêu cầu cho kết nối IPv6. Cổng sau và địa chỉ chính từ mạng con định tuyến đã được cấu hình:"
 }

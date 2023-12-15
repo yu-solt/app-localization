@@ -314,6 +314,7 @@
     "315": "Nimen on oltava vähintään 3 merkkiä ja se on pakollinen kenttä.",
     "316": "Isäntänimi on virheellinen.",
     "317": "Piilota lisäasetukset",
-    "318": "Erillinen reitityslohko",
-    "319": "Tähän aliverkkoon on liitetty reitityslohko, jota tarvitaan IPv6-yhteyteen. Seuraava yhdyskäytävä ja ensisijainen osoite on määritetty:"
+    "318": "Dedikoitu reitityksen aliverkko",
+    "319": "Reitityksen aliverkko on liitetty",
+    "320": "ja sitä tarvitaan IPv6-yhteyksiin. Seuraava yhdyskäytävä ja ensisijainen osoite reitityksen aliverkosta on määritetty:"
 }

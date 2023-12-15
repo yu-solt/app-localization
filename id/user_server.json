@@ -314,6 +314,7 @@
     "315": "Nama harus terdiri dari 3 karakter atau lebih dan merupakan bidang yang wajib diisi.",
     "316": "Nama host tidak valid.",
     "317": "Menyembunyikan Opsi Lanjutan",
-    "318": "Blok Perutean Khusus",
-    "319": "Blok perutean telah dilampirkan ke subnet ini dan diperlukan untuk konektivitas IPv6. Gateway dan alamat utama berikut telah dikonfigurasi:"
+    "318": "Subnet Perutean Khusus",
+    "319": "Subnet perutean telah dilampirkan ke",
+    "320": "dan diperlukan untuk konektivitas IPv6. Gateway dan alamat utama dari subnet perutean berikut ini telah dikonfigurasi:"
 }

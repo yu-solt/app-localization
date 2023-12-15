@@ -314,6 +314,7 @@
     "315": "Ime mora biti KSNUMKS znakova ili više i obavezno polje.",
     "316": "Ime hosta nevažeći.",
     "317": "Sakrij napredne opcije",
-    "318": "Namenski blok za usmeravanje",
-    "319": "Na ovu podmrežu je priključen blok za rutiranje i potreban je za IPv6 povezivanje. Konfigurisani su sledeći prolaz i primarna adresa:"
+    "318": "Namenska podmreža za usmeravanje",
+    "319": "Priključena je podmreža za usmeravanje",
+    "320": "i potreban je za IPv6 povezivanje. Konfigurisani su sledeći mrežni prolaz i primarna adresa iz podmreže za rutiranje:"
 }

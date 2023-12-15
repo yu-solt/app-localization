@@ -314,6 +314,7 @@
     "315": "Numele trebuie să aibă 3 caractere sau mai mult și este un câmp obligatoriu.",
     "316": "Nume gazdă nevalid.",
     "317": "Ascundeți opțiunile avansate",
-    "318": "Bloc de rutare dedicat",
-    "319": "Un bloc de rutare a fost atașat la această subrețea și este necesar pentru conectivitatea IPv6. Următorul gateway și adresa principală au fost configurate:"
+    "318": "Subrețea dedicată de rutare",
+    "319": "O subrețea de rutare a fost atașată la",
+    "320": "și este necesar pentru conectivitatea IPv6. Următorul gateway și adresa primară din subrețeaua de rutare au fost configurate:"
 }

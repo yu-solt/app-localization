@@ -314,6 +314,7 @@
     "315": "O nome deve ter 3 caracteres ou mais e é um campo obrigatório.",
     "316": "Nome de host inválido.",
     "317": "Ocultar opções avançadas",
-    "318": "Bloco de roteamento dedicado",
-    "319": "Um bloco de roteamento foi anexado a essa sub-rede e é necessário para a conectividade IPv6. O gateway e o endereço primário a seguir foram configurados:"
+    "318": "Sub-rede de roteamento dedicada",
+    "319": "Uma sub-rede de roteamento foi anexada a",
+    "320": "o seguinte gateway e endereço primário da sub-rede de roteamento foram configurados:"
 }

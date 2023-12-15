@@ -314,6 +314,7 @@
     "315": "A névnek legalább 3 karakterből kell állnia, és kötelezően kitöltendő mező.",
     "316": "Hostnév érvénytelen.",
     "317": "Speciális beállítások elrejtése",
-    "318": "Dedikált útválasztó blokk",
-    "319": "Ehhez az alhálózathoz egy útválasztó blokkot csatoltak, amely az IPv6-kapcsolathoz szükséges. A következő átjárót és elsődleges címet konfigurálták:"
+    "318": "Dedikált útválasztó alhálózat",
+    "319": "Egy útválasztó alhálózatot csatoltak a",
+    "320": "és az IPv6-kapcsolathoz szükséges. A következő átjárót és elsődleges címet konfiguráltuk az útválasztó alhálózatból:"
 }

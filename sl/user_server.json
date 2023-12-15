@@ -314,6 +314,7 @@
     "315": "Ime mora imeti 3 ali več znakov in je obvezno polje.",
     "316": "Hostname invalid.",
     "317": "Skrijte napredne možnosti",
-    "318": "Namenski usmerjevalni blok",
-    "319": "Temu podomrežju je bil priključen usmerjevalni blok, ki je potreben za povezljivost IPv6. Konfigurirana sta bila naslednji prehod in primarni naslov:"
+    "318": "Namensko usmerjevalno podomrežje",
+    "319": "Podomrežje za usmerjanje je bilo priključeno na",
+    "320": "in je potreben za povezljivost IPv6. Konfigurirana sta naslednja vrata in primarni naslov iz usmerjevalnega podomrežja:"
 }
