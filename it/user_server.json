@@ -316,5 +316,13 @@
     "317": "Nascondere le opzioni avanzate",
     "318": "Sottorete di routing dedicata",
     "319": "Una sottorete di routing è stata collegata a",
-    "320": "ed è necessario per la connettività IPv6. Sono stati configurati il seguente gateway e l'indirizzo primario della sottorete di routing:"
+    "320": "ed è necessario per la connettività IPv6. Sono stati configurati il seguente gateway e l'indirizzo primario della sottorete di routing:",
+    "321": "Immettere l'URL di una ISO remota nella casella sottostante. L'URL deve essere HTTPS ma non deve includere il prefisso https:\/\/. Deve inoltre terminare con .iso e non contenere reindirizzamenti.",
+    "322": "L'inserimento di una ISO non valida potrebbe rendere il server non avviabile e dovrebbe essere espulso con il server spento.",
+    "323": "CD\/DVD personalizzato",
+    "324": "CD\/DVD preimpostati",
+    "325": "Personalizzato",
+    "326": "L'URL fornito non è valido. Un URL deve essere formattato correttamente e restituire un codice HTTP 200. I reindirizzamenti sono vietati.",
+    "327": "Modifiche in corso",
+    "328": "Una o più modifiche al server sono in attesa. Le modifiche possono essere elaborate mediante un'azione di Riavvio, Arresto o Avvio da questo pannello di controllo."
 }

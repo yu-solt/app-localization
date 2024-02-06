@@ -316,5 +316,13 @@
     "317": "Hide Advanced Options",
     "318": "Dedicated Routing Subnet",
     "319": "A routing subnet has been attached to",
-    "320": "and is required for IPv6 connectivity. The following gateway and primary address from the routing subnet have been configured:"
+    "320": "and is required for IPv6 connectivity. The following gateway and primary address from the routing subnet have been configured:",
+    "321": "Enter the URL of a remote ISO in the box below. The URL must be HTTPS but should not include the https:\/\/ prefix. It must also end in .iso and contain no re-directs.",
+    "322": "Inserting an invalid ISO may render the server un-bootable and would need to be ejected with the server powered off.",
+    "323": "Custom CD\/DVD",
+    "324": "Preset CD\/DVD",
+    "325": "Custom",
+    "326": "The supplied URL is invalid. A URL must be formatted correctly and return a 200 HTTP code. Re-directs are forbidden.",
+    "327": "Pending Changes",
+    "328": "One or more changes to the server are pending. Changes can be processed by issuing a Restart, Shutdown or Boot action from this control panel."
 }

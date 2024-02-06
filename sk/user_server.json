@@ -316,5 +316,13 @@
     "317": "Skryť rozšírené možnosti",
     "318": "Vyhradená smerovacia podsieť",
     "319": "Smerovacia podsieť bola pripojená k",
-    "320": "a vyžaduje sa na pripojenie IPv6. Bola nakonfigurovaná nasledujúca brána a primárna adresa zo smerovacej podsiete:"
+    "320": "a vyžaduje sa na pripojenie IPv6. Bola nakonfigurovaná nasledujúca brána a primárna adresa zo smerovacej podsiete:",
+    "321": "Do nasledujúceho poľa zadajte adresu URL vzdialeného ISO. Adresa URL musí byť HTTPS, ale nemala by obsahovať predponu https:\/\/. Musí tiež končiť na .iso a nesmie obsahovať žiadne presmerovania.",
+    "322": "Vloženie neplatného ISO môže spôsobiť, že server nebude možné spustiť a bude potrebné ho vysunúť pri vypnutom serveri.",
+    "323": "Custom CD\/DVD",
+    "324": "Prednastavené CD\/DVD",
+    "325": "Vlastné",
+    "326": "Zadaná adresa URL je neplatná. Adresa URL musí byť správne naformátovaná a musí vracať kód HTTP 200. Presmerovanie je zakázané.",
+    "327": "Čakajúce zmeny",
+    "328": "Čaká sa na jednu alebo viacero zmien na serveri. Zmeny možno spracovať vydaním akcie Reštart, Vypnutie alebo Zavedenie z tohto ovládacieho panela."
 }

@@ -316,5 +316,13 @@
     "317": "Erweiterte Optionen ausblenden",
     "318": "Dediziertes Routing-Subnetz",
     "319": "Ein Routing-Subnetz wurde angehängt an",
-    "320": "das folgende Gateway und die primäre Adresse des Routing-Subnetzes wurden konfiguriert:"
+    "320": "das folgende Gateway und die primäre Adresse des Routing-Subnetzes wurden konfiguriert:",
+    "321": "Geben Sie die URL einer Remote-ISO in das unten stehende Feld ein. Die URL muss HTTPS sein, sollte aber nicht das Präfix https:\/\/ enthalten. Sie muss außerdem auf .iso enden und darf keine Weiterleitungen enthalten.",
+    "322": "Das Einlegen einer ungültigen ISO-Datei kann dazu führen, dass der Server nicht mehr gebootet werden kann und bei ausgeschaltetem Server ausgeworfen werden muss.",
+    "323": "Benutzerdefinierte CD\/DVD",
+    "324": "Voreinstellung CD\/DVD",
+    "325": "Benutzerdefiniert",
+    "326": "Die angegebene URL ist ungültig. Eine URL muss korrekt formatiert sein und einen 200 HTTP-Code zurückgeben. Umleitungen sind verboten.",
+    "327": "Anstehende Änderungen",
+    "328": "Es stehen eine oder mehrere Änderungen am Server an, die durch einen Neustart, einen Shutdown oder einen Bootvorgang über dieses Bedienfeld verarbeitet werden können."
 }

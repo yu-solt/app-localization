@@ -316,5 +316,13 @@
     "317": "Ascundeți opțiunile avansate",
     "318": "Subrețea dedicată de rutare",
     "319": "O subrețea de rutare a fost atașată la",
-    "320": "și este necesar pentru conectivitatea IPv6. Următorul gateway și adresa primară din subrețeaua de rutare au fost configurate:"
+    "320": "și este necesar pentru conectivitatea IPv6. Următorul gateway și adresa primară din subrețeaua de rutare au fost configurate:",
+    "321": "Introduceți adresa URL a unui ISO la distanță în caseta de mai jos. Adresa URL trebuie să fie HTTPS, dar nu trebuie să includă prefixul https:\/\/. De asemenea, trebuie să se termine în.iso și să nu conțină redirecționări.",
+    "322": "Introducerea unui ISO nevalid poate face serverul nebootabil și ar trebui să fie scos cu serverul oprit.",
+    "323": "CD\/DVD personalizat",
+    "324": "CD\/DVD presetat",
+    "325": "Personalizat",
+    "326": "Adresa URL furnizată nu este validă. O adresă URL trebuie să fie formatată corect și să returneze un cod HTTP 200. Redirecționările sunt interzise.",
+    "327": "Modificări în așteptare",
+    "328": "Una sau mai multe modificări ale serverului sunt în așteptare. Modificările pot fi procesate prin emiterea unei acțiuni de repornire, închidere sau pornire din acest panou de control."
 }

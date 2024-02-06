@@ -316,5 +316,13 @@
     "317": "Speciális beállítások elrejtése",
     "318": "Dedikált útválasztó alhálózat",
     "319": "Egy útválasztó alhálózatot csatoltak a",
-    "320": "és az IPv6-kapcsolathoz szükséges. A következő átjárót és elsődleges címet konfiguráltuk az útválasztó alhálózatból:"
+    "320": "és az IPv6-kapcsolathoz szükséges. A következő átjárót és elsődleges címet konfiguráltuk az útválasztó alhálózatból:",
+    "321": "Adja meg a távoli ISO URL-címét az alábbi mezőben. Az URL-címnek HTTPS-nek kell lennie, de nem tartalmazhatja a https:\/\/ előtagot. Az URL-címnek .iso végződésűnek kell lennie, és nem tartalmazhat átirányításokat.",
+    "322": "Ha érvénytelen ISO-t helyez be, a kiszolgáló nem indítható, és a kiszolgálót kikapcsolt állapotban ki kell dobni.",
+    "323": "Egyedi CD\/DVD",
+    "324": "Előre beállított CD\/DVD",
+    "325": "Custom",
+    "326": "A megadott URL érvénytelen. Az URL-nek helyesen kell formázottnak lennie, és 200-as HTTP-kódot kell visszaküldenie. Az átirányítás tilos.",
+    "327": "Függőben lévő változások",
+    "328": "A kiszolgálón egy vagy több módosítás van folyamatban. A módosításokat az Újraindítás, Leállítás vagy Indítás művelet kiadásával lehet feldolgozni erről a vezérlőpanelről."
 }

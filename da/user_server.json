@@ -316,5 +316,13 @@
     "317": "Skjul avancerede indstillinger",
     "318": "Dedikeret rutningsundernet",
     "319": "Et routing-undernet er blevet knyttet til",
-    "320": "og er påkrævet for IPv6-forbindelse. Følgende gateway og primære adresse fra routingundernettet er blevet konfigureret:"
+    "320": "og er påkrævet for IPv6-forbindelse. Følgende gateway og primære adresse fra routingundernettet er blevet konfigureret:",
+    "321": "Indtast URL'en til en ekstern ISO i boksen nedenfor. URL'en skal være HTTPS, men må ikke indeholde præfikset https:\/\/. Den skal også ende på .iso og ikke indeholde omdirigeringer.",
+    "322": "Hvis du indsætter en ugyldig ISO, kan serveren ikke startes, og den skal så skubbes ud, mens serveren er slukket.",
+    "323": "Brugerdefineret CD\/DVD",
+    "324": "Forudindstillet CD\/DVD",
+    "325": "Brugerdefineret",
+    "326": "Den angivne URL er ugyldig. En URL skal være formateret korrekt og returnere en 200 HTTP-kode. Omdirigeringer er forbudt.",
+    "327": "Afventende ændringer",
+    "328": "En eller flere ændringer til serveren afventer. Ændringer kan behandles ved at udstede en genstart-, nedluknings- eller opstartshandling fra dette kontrolpanel."
 }

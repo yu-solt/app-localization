@@ -316,5 +316,13 @@
     "317": "Gelişmiş Seçenekleri Gizle",
     "318": "Özel Yönlendirme Alt Ağı",
     "319": "Bir yönlendirme alt ağı",
-    "320": "iPv6 bağlantısı için gereklidir. Yönlendirme alt ağından aşağıdaki ağ geçidi ve birincil adres yapılandırılmıştır:"
+    "320": "iPv6 bağlantısı için gereklidir. Yönlendirme alt ağından aşağıdaki ağ geçidi ve birincil adres yapılandırılmıştır:",
+    "321": "Aşağıdaki kutuya uzak ISO'nun URL'sini girin. URL HTTPS olmalı ancak https:\/\/ önekini içermemelidir. Ayrıca .iso ile bitmeli ve yeniden yönlendirme içermemelidir.",
+    "322": "Geçersiz bir ISO'nun yerleştirilmesi sunucuyu önyüklenemez hale getirebilir ve sunucu kapalıyken çıkarılması gerekir.",
+    "323": "Özel CD\/DVD",
+    "324": "Önceden Ayarlanmış CD\/DVD",
+    "325": "Özel",
+    "326": "Sağlanan URL geçersizdir. URL doğru biçimlendirilmeli ve 200 HTTP kodu döndürmelidir. Yeniden yönlendirmeler yasaktır.",
+    "327": "Bekleyen Değişiklikler",
+    "328": "Sunucuda bir veya daha fazla değişiklik beklemededir. Değişiklikler, bu kontrol panelinden bir Yeniden Başlatma, Kapatma veya Önyükleme eylemi gerçekleştirilerek işlenebilir."
 }

@@ -316,5 +316,13 @@
     "317": "Ukryj opcje zaawansowane",
     "318": "Dedykowana podsieć routingu",
     "319": "Podsieć routingu została dołączona do",
-    "320": "i jest wymagany dla łączności IPv6. Skonfigurowano następującą bramę i adres podstawowy z podsieci routingu:"
+    "320": "i jest wymagany dla łączności IPv6. Skonfigurowano następującą bramę i adres podstawowy z podsieci routingu:",
+    "321": "Wprowadź adres URL zdalnego ISO w polu poniżej. Adres URL musi być HTTPS, ale nie powinien zawierać prefiksu https:\/\/. Musi również kończyć się na .iso i nie może zawierać przekierowań.",
+    "322": "Włożenie nieprawidłowego ISO może uniemożliwić uruchomienie serwera i będzie wymagało jego wysunięcia przy wyłączonym zasilaniu.",
+    "323": "Niestandardowe płyty CD\/DVD",
+    "324": "Zaprogramowane płyty CD\/DVD",
+    "325": "Niestandardowe",
+    "326": "Podany adres URL jest nieprawidłowy. Adres URL musi być poprawnie sformatowany i zwracać kod HTTP 200. Przekierowania są zabronione.",
+    "327": "Oczekujące zmiany",
+    "328": "Oczekuje na wprowadzenie co najmniej jednej zmiany na serwerze. Zmiany mogą zostać przetworzone poprzez wykonanie akcji Restart, Shutdown lub Boot z poziomu tego panelu sterowania."
 }

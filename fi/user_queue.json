@@ -25,5 +25,7 @@
     "23": "sek",
     "24": "Peruutettu",
     "25": "Järjestelmän ylläpitotehtävä oli käynnissä, kun tätä toimenpidettä pyydettiin. Lisäpyynnöt todennäköisesti peruutetaan, kunnes järjestelmän ylläpitotehtävä on suoritettu. Yritä uudelleen viiden minuutin kuluttua.",
-    "26": "Järjestelmä ei vastannut toimintapyyntöön. Muita yrityksiä todennäköisesti peruutetaan, kunnes järjestelmä reagoi normaalisti. Yritä uudelleen viiden minuutin kuluttua."
+    "26": "Järjestelmä ei vastannut toimintapyyntöön. Muita yrityksiä todennäköisesti peruutetaan, kunnes järjestelmä reagoi normaalisti. Yritä uudelleen viiden minuutin kuluttua.",
+    "27": "CD\/DVD-levyä ei voitu asettaa. Jos käytössä on mukautettu CD\/DVD-levy, etäpalvelinta ei ehkä ole määritetty suoratoistamaan tietoja. Toista resurssia pitäisi yrittää. Tämä virhe voidaan ratkaista palvelimen uudelleenkäynnistyksellä.",
+    "28": "CD\/DVD-levyä ei voitu poistaa. Tämä virhe on ratkaistavissa palvelimen sammutuksella."
 }

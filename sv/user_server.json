@@ -316,5 +316,13 @@
     "317": "Dölj avancerade alternativ",
     "318": "Dedikerat routingsubnät",
     "319": "Ett routingsubnät har kopplats till",
-    "320": "och krävs för IPv6-anslutning. Följande gateway och primära adress från routingsubnätet har konfigurerats:"
+    "320": "och krävs för IPv6-anslutning. Följande gateway och primära adress från routingsubnätet har konfigurerats:",
+    "321": "Ange webbadressen till en fjärr-ISO i rutan nedan. Webbadressen måste vara HTTPS men får inte innehålla prefixet https:\/\/. Det måste också sluta på.iso och innehålla inga omdirigeringar.",
+    "322": "Om du infogar en ogiltig ISO kan servern inte kunna startas och måste matas ut när servern är avstängd.",
+    "323": "Anpassad CD\/DVD",
+    "324": "Förinställd CD\/DVD",
+    "325": "Anpassad",
+    "326": "Den angivna webbadressen är ogiltig. En URL måste formateras korrekt och returnera en 200 HTTP-kod. Omdirigeringar är förbjudna.",
+    "327": "Väntande ändringar",
+    "328": "En eller flera ändringar av servern väntar. Ändringar kan bearbetas genom att utföra en omstart, avstängning eller startåtgärd från den här kontrollpanelen."
 }

@@ -316,5 +316,13 @@
     "317": "Sakrij napredne opcije",
     "318": "Namenska podmreža za usmeravanje",
     "319": "Priključena je podmreža za usmeravanje",
-    "320": "i potreban je za IPv6 povezivanje. Konfigurisani su sledeći mrežni prolaz i primarna adresa iz podmreže za rutiranje:"
+    "320": "i potreban je za IPv6 povezivanje. Konfigurisani su sledeći mrežni prolaz i primarna adresa iz podmreže za rutiranje:",
+    "321": "Unesite URL udaljenog ISO-a u polje ispod. URL mora biti HTTPS, ali ne sme da sadrži prefiks https:\/\/. Takođe mora da se završi u .iso i ne sadrži preusmeravanja.",
+    "322": "Umetanje nevažećeg ISO-a može učiniti server nepokretnim i moraće ga izbaciti kada je server isključen.",
+    "323": "Prilagođeni CD\/DVD",
+    "324": "Unapred podešeni CD\/DVD",
+    "325": "Prilagođeno",
+    "326": "Isporučeni URL je nevažeći. URL mora biti pravilno formatiran i vratiti 200 HTTP koda. Preusmeravanja su zabranjena.",
+    "327": "Promene na čekanju",
+    "328": "Jedna ili više promena na serveru je na čekanju. Promene se mogu obraditi izdavanjem akcije ponovnog pokretanja, isključivanja ili pokretanja sa ove kontrolne table."
 }

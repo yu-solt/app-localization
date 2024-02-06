@@ -25,5 +25,7 @@
     "23": "sek",
     "24": "Aflyst",
     "25": "En systemvedligeholdelsesopgave var i gang på det tidspunkt, hvor denne handling blev anmodet om. Yderligere anmodninger vil sandsynligvis blive annulleret, indtil systemvedligeholdelsesopgaven er afsluttet. Prøv igen om fem minutter.",
-    "26": "Systemet har ikke reageret på anmodningen om handling. Yderligere forsøg vil sandsynligvis blive afbrudt, indtil systemet reagerer normalt. Prøv igen om fem minutter."
+    "26": "Systemet har ikke reageret på anmodningen om handling. Yderligere forsøg vil sandsynligvis blive afbrudt, indtil systemet reagerer normalt. Prøv igen om fem minutter.",
+    "27": "CD'en\/DVD'en kunne ikke indsættes. Hvis der bruges en brugerdefineret CD\/DVD, er fjernserveren muligvis ikke konfigureret til at streame data. En anden ressource bør forsøges. Denne fejl kan muligvis løses med en genstart af serveren.",
+    "28": "CD'en\/DVD'en kunne ikke skubbes ud. Denne fejl kan løses ved at lukke serveren ned."
 }

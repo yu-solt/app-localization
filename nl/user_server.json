@@ -316,5 +316,13 @@
     "317": "Geavanceerde opties verbergen",
     "318": "Specifiek routingsubnet",
     "319": "Er is een routingsubnet gekoppeld aan",
-    "320": "en is vereist voor IPv6-connectiviteit. De volgende gateway en het primaire adres van het routing-subnet zijn geconfigureerd:"
+    "320": "en is vereist voor IPv6-connectiviteit. De volgende gateway en het primaire adres van het routing-subnet zijn geconfigureerd:",
+    "321": "Voer de URL van een ISO op afstand in het vak hieronder in. De URL moet HTTPS zijn, maar mag niet het voorvoegsel https:\/\/ bevatten. Hij moet ook eindigen op .iso en geen omleidingen bevatten.",
+    "322": "Het plaatsen van een ongeldige ISO kan ervoor zorgen dat het basisstation niet meer kan worden opgestart en moet worden uitgeworpen terwijl het basisstation is uitgeschakeld.",
+    "323": "Aangepaste CD\/DVD",
+    "324": "Vooraf ingestelde CD\/DVD",
+    "325": "Aangepast",
+    "326": "De opgegeven URL is ongeldig. Een URL moet correct geformatteerd zijn en een 200 HTTP-code retourneren. Re-directs zijn verboden.",
+    "327": "In afwachting van wijzigingen",
+    "328": "Een of meer wijzigingen aan de server zijn in behandeling. Wijzigingen kunnen worden verwerkt door een actie Restart (Opnieuw opstarten), Shutdown (Afsluiten) of Boot (Opstarten) uit te voeren vanuit dit controlepaneel."
 }

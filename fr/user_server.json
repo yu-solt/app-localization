@@ -316,5 +316,13 @@
     "317": "Masquer les options avancées",
     "318": "Sous-réseau de routage dédié",
     "319": "Un sous-réseau de routage a été attaché à",
-    "320": "la passerelle et l'adresse primaire suivantes du sous-réseau de routage ont été configurées :"
+    "320": "la passerelle et l'adresse primaire suivantes du sous-réseau de routage ont été configurées :",
+    "321": "L'URL doit être HTTPS mais ne doit pas inclure le préfixe https:\/\/. Elle doit également se terminer par .iso et ne doit pas contenir de redirections.",
+    "322": "L'insertion d'une ISO non valide peut rendre le serveur non amorçable et devra être éjectée lorsque le serveur est hors tension.",
+    "323": "CD\/DVD personnalisé",
+    "324": "CD\/DVD préréglés",
+    "325": "Sur mesure",
+    "326": "L'URL fournie n'est pas valide. Une URL doit être formatée correctement et renvoyer un code HTTP 200. Les redirections sont interdites.",
+    "327": "Changements en cours",
+    "328": "Une ou plusieurs modifications du serveur sont en attente. Les modifications peuvent être traitées en lançant une action de redémarrage, d'arrêt ou de démarrage à partir de ce panneau de contrôle."
 }

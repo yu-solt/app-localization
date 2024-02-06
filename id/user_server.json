@@ -316,5 +316,13 @@
     "317": "Menyembunyikan Opsi Lanjutan",
     "318": "Subnet Perutean Khusus",
     "319": "Subnet perutean telah dilampirkan ke",
-    "320": "dan diperlukan untuk konektivitas IPv6. Gateway dan alamat utama dari subnet perutean berikut ini telah dikonfigurasi:"
+    "320": "dan diperlukan untuk konektivitas IPv6. Gateway dan alamat utama dari subnet perutean berikut ini telah dikonfigurasi:",
+    "321": "Masukkan URL ISO jarak jauh dalam kotak di bawah ini. URL harus HTTPS tetapi tidak boleh menyertakan awalan https:\/\/. URL juga harus diakhiri dengan .iso dan tidak mengandung pengalihan.",
+    "322": "Memasukkan ISO yang tidak valid dapat membuat server tidak dapat di-boot dan harus dikeluarkan dengan mematikan server.",
+    "323": "CD\/DVD khusus",
+    "324": "CD\/DVD yang telah ditetapkan sebelumnya",
+    "325": "Kustom",
+    "326": "URL yang diberikan tidak valid. URL harus diformat dengan benar dan mengembalikan kode HTTP 200. Pengalihan ulang dilarang.",
+    "327": "Perubahan Tertunda",
+    "328": "Satu atau beberapa perubahan pada server sedang menunggu keputusan. Perubahan dapat diproses dengan mengeluarkan tindakan Restart, Shutdown, atau Boot dari panel kontrol ini."
 }

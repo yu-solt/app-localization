@@ -316,5 +316,13 @@
     "317": "Ocultar opções avançadas",
     "318": "Sub-rede de roteamento dedicada",
     "319": "Uma sub-rede de roteamento foi anexada a",
-    "320": "o seguinte gateway e endereço primário da sub-rede de roteamento foram configurados:"
+    "320": "o seguinte gateway e endereço primário da sub-rede de roteamento foram configurados:",
+    "321": "Digite o URL de um ISO remoto na caixa abaixo. O URL deve ser HTTPS, mas não deve incluir o prefixo https:\/\/. Ele também deve terminar em .iso e não deve conter redirecionamentos.",
+    "322": "A inserção de um ISO inválido pode tornar o servidor não inicializável e precisará ser ejetado com o servidor desligado.",
+    "323": "CD\/DVD personalizado",
+    "324": "CD\/DVD predefinido",
+    "325": "Personalizado",
+    "326": "O URL fornecido é inválido. Um URL deve ser formatado corretamente e retornar um código HTTP 200. Redirecionamentos são proibidos.",
+    "327": "Alterações pendentes",
+    "328": "Uma ou mais alterações no servidor estão pendentes. As alterações podem ser processadas com a emissão de uma ação de reinicialização, desligamento ou inicialização a partir desse painel de controle."
 }

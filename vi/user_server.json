@@ -316,5 +316,13 @@
     "317": "Ẩn các tùy chọn nâng cao",
     "318": "Mạng con định tuyến chuyên dụng",
     "319": "Một mạng con định tuyến đã được gắn vào",
-    "320": "và được yêu cầu cho kết nối IPv6. Cổng sau và địa chỉ chính từ mạng con định tuyến đã được cấu hình:"
+    "320": "và được yêu cầu cho kết nối IPv6. Cổng sau và địa chỉ chính từ mạng con định tuyến đã được cấu hình:",
+    "321": "Nhập URL của ISO từ xa vào hộp bên dưới. URL phải là HTTPS nhưng không nên bao gồm tiền tố https:\/\/. Nó cũng phải kết thúc bằng .iso và không chứa định hướng lại.",
+    "322": "Việc chèn ISO không hợp lệ có thể làm cho máy chủ không thể khởi động được và sẽ cần phải được đẩy ra khi máy chủ đã tắt nguồn.",
+    "323": "CD\/DVD tùy chỉnh",
+    "324": "Đặt trước CD\/DVD",
+    "325": "Tuỳ chỉnh",
+    "326": "URL được cung cấp không hợp lệ. URL phải được định dạng chính xác và trả về mã HTTP 200. Chuyển hướng bị cấm.",
+    "327": "Thay đổi đang chờ xử lý",
+    "328": "Một hoặc nhiều thay đổi đối với máy chủ đang chờ xử lý. Các thay đổi có thể được xử lý bằng cách thực hiện hành động Khởi động lại, Tắt máy hoặc Khởi động từ bảng điều khiển này."
 }

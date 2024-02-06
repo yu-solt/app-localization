@@ -316,5 +316,13 @@
     "317": "Piilota lisäasetukset",
     "318": "Dedikoitu reitityksen aliverkko",
     "319": "Reitityksen aliverkko on liitetty",
-    "320": "ja sitä tarvitaan IPv6-yhteyksiin. Seuraava yhdyskäytävä ja ensisijainen osoite reitityksen aliverkosta on määritetty:"
+    "320": "ja sitä tarvitaan IPv6-yhteyksiin. Seuraava yhdyskäytävä ja ensisijainen osoite reitityksen aliverkosta on määritetty:",
+    "321": "Kirjoita etä-ISO-osoitteen URL-osoite alla olevaan ruutuun. URL-osoitteen on oltava HTTPS, mutta se ei saa sisältää etuliitettä https:\/\/. Sen on myös päätyttävä arvoon.iso, eikä siinä saa olla uudelleenohjauksia.",
+    "322": "Virheellisen ISO-tiedoston lisääminen saattaa tehdä palvelimen käynnistymättömäksi, ja se on poistettava palvelimen ollessa sammutettuna.",
+    "323": "Mukautettu CD\/DVD",
+    "324": "Esiasetetut CD\/DVD",
+    "325": "Mukautettu",
+    "326": "Toimitettu URL-osoite on virheellinen. URL-osoitteen on oltava muotoiltu oikein ja palautettava 200 HTTP-koodi. Uudelleenohjaukset ovat kiellettyjä.",
+    "327": "Odottavat muutokset",
+    "328": "Yksi tai useampi palvelimen muutos on vireillä. Muutokset voidaan käsitellä antamalla uudelleenkäynnistys-, sammutus- tai käynnistystoiminto tästä ohjauspaneelista."
 }

@@ -316,5 +316,13 @@
     "317": "Skrijte napredne možnosti",
     "318": "Namensko usmerjevalno podomrežje",
     "319": "Podomrežje za usmerjanje je bilo priključeno na",
-    "320": "in je potreben za povezljivost IPv6. Konfigurirana sta naslednja vrata in primarni naslov iz usmerjevalnega podomrežja:"
+    "320": "in je potreben za povezljivost IPv6. Konfigurirana sta naslednja vrata in primarni naslov iz usmerjevalnega podomrežja:",
+    "321": "V spodnje polje vnesite URL oddaljenega ISO-a. URL mora biti HTTPS, vendar ne sme vsebovati predpone https:\/\/. Prav tako se mora končati s končnico .iso in ne sme vsebovati preusmeritev.",
+    "322": "Če vstavite neveljavni ISO, strežnika ne bo mogoče zagnati in ga bo treba izvleči z izklopljenim strežnikom.",
+    "323": "CD\/DVD po meri",
+    "324": "Prednastavljeni CD\/DVD",
+    "325": "Po meri",
+    "326": "Navedeni URL je neveljaven. URL mora biti pravilno oblikovan in vrniti kodo HTTP 200. Preusmeritve so prepovedane.",
+    "327": "Spremembe v obravnavi",
+    "328": "Čaka se na eno ali več sprememb strežnika. Spremembe je mogoče obdelati tako, da iz te nadzorne plošče izdate akcijo Ponovni zagon, Izklop ali Zagon."
 }
