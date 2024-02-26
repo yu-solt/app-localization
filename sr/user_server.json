@@ -324,5 +324,6 @@
     "325": "Prilagođeno",
     "326": "Isporučeni URL je nevažeći. URL mora biti pravilno formatiran i vratiti 200 HTTP koda. Preusmeravanja su zabranjena.",
     "327": "Promene na čekanju",
-    "328": "Jedna ili više promena na serveru je na čekanju. Promene se mogu obraditi izdavanjem akcije ponovnog pokretanja, isključivanja ili pokretanja sa ove kontrolne table."
+    "328": "Jedna ili više promena na serveru je na čekanju. Promene se mogu obraditi izdavanjem akcije ponovnog pokretanja, isključivanja ili pokretanja sa ove kontrolne table.",
+    "329": "Onemogućavanje VNC-a."
 }

@@ -324,5 +324,6 @@
     "325": "Aangepast",
     "326": "De opgegeven URL is ongeldig. Een URL moet correct geformatteerd zijn en een 200 HTTP-code retourneren. Re-directs zijn verboden.",
     "327": "In afwachting van wijzigingen",
-    "328": "Een of meer wijzigingen aan de server zijn in behandeling. Wijzigingen kunnen worden verwerkt door een actie Restart (Opnieuw opstarten), Shutdown (Afsluiten) of Boot (Opstarten) uit te voeren vanuit dit controlepaneel."
+    "328": "Een of meer wijzigingen aan de server zijn in behandeling. Wijzigingen kunnen worden verwerkt door een actie Restart (Opnieuw opstarten), Shutdown (Afsluiten) of Boot (Opstarten) uit te voeren vanuit dit controlepaneel.",
+    "329": "VNC uitschakelen."
 }

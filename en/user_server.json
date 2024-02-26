@@ -324,5 +324,6 @@
     "325": "Custom",
     "326": "The supplied URL is invalid. A URL must be formatted correctly and return a 200 HTTP code. Re-directs are forbidden.",
     "327": "Pending Changes",
-    "328": "One or more changes to the server are pending. Changes can be processed by issuing a Restart, Shutdown or Boot action from this control panel."
+    "328": "One or more changes to the server are pending. Changes can be processed by issuing a Restart, Shutdown or Boot action from this control panel.",
+    "329": "Disabling VNC."
 }

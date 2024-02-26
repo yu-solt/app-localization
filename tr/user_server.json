@@ -324,5 +324,6 @@
     "325": "Özel",
     "326": "Sağlanan URL geçersizdir. URL doğru biçimlendirilmeli ve 200 HTTP kodu döndürmelidir. Yeniden yönlendirmeler yasaktır.",
     "327": "Bekleyen Değişiklikler",
-    "328": "Sunucuda bir veya daha fazla değişiklik beklemededir. Değişiklikler, bu kontrol panelinden bir Yeniden Başlatma, Kapatma veya Önyükleme eylemi gerçekleştirilerek işlenebilir."
+    "328": "Sunucuda bir veya daha fazla değişiklik beklemededir. Değişiklikler, bu kontrol panelinden bir Yeniden Başlatma, Kapatma veya Önyükleme eylemi gerçekleştirilerek işlenebilir.",
+    "329": "VNC'yi devre dışı bırakma."
 }

@@ -324,5 +324,6 @@
     "325": "Brugerdefineret",
     "326": "Den angivne URL er ugyldig. En URL skal være formateret korrekt og returnere en 200 HTTP-kode. Omdirigeringer er forbudt.",
     "327": "Afventende ændringer",
-    "328": "En eller flere ændringer til serveren afventer. Ændringer kan behandles ved at udstede en genstart-, nedluknings- eller opstartshandling fra dette kontrolpanel."
+    "328": "En eller flere ændringer til serveren afventer. Ændringer kan behandles ved at udstede en genstart-, nedluknings- eller opstartshandling fra dette kontrolpanel.",
+    "329": "Deaktivering af VNC."
 }

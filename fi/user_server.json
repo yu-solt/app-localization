@@ -324,5 +324,6 @@
     "325": "Mukautettu",
     "326": "Toimitettu URL-osoite on virheellinen. URL-osoitteen on oltava muotoiltu oikein ja palautettava 200 HTTP-koodi. Uudelleenohjaukset ovat kiellettyjä.",
     "327": "Odottavat muutokset",
-    "328": "Yksi tai useampi palvelimen muutos on vireillä. Muutokset voidaan käsitellä antamalla uudelleenkäynnistys-, sammutus- tai käynnistystoiminto tästä ohjauspaneelista."
+    "328": "Yksi tai useampi palvelimen muutos on vireillä. Muutokset voidaan käsitellä antamalla uudelleenkäynnistys-, sammutus- tai käynnistystoiminto tästä ohjauspaneelista.",
+    "329": "VNC: n poistaminen käytöstä."
 }

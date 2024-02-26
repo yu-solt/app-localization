@@ -324,5 +324,6 @@
     "325": "Niestandardowe",
     "326": "Podany adres URL jest nieprawidłowy. Adres URL musi być poprawnie sformatowany i zwracać kod HTTP 200. Przekierowania są zabronione.",
     "327": "Oczekujące zmiany",
-    "328": "Oczekuje na wprowadzenie co najmniej jednej zmiany na serwerze. Zmiany mogą zostać przetworzone poprzez wykonanie akcji Restart, Shutdown lub Boot z poziomu tego panelu sterowania."
+    "328": "Oczekuje na wprowadzenie co najmniej jednej zmiany na serwerze. Zmiany mogą zostać przetworzone poprzez wykonanie akcji Restart, Shutdown lub Boot z poziomu tego panelu sterowania.",
+    "329": "Wyłączenie VNC."
 }

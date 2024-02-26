@@ -324,5 +324,6 @@
     "325": "Personalizzato",
     "326": "L'URL fornito non è valido. Un URL deve essere formattato correttamente e restituire un codice HTTP 200. I reindirizzamenti sono vietati.",
     "327": "Modifiche in corso",
-    "328": "Una o più modifiche al server sono in attesa. Le modifiche possono essere elaborate mediante un'azione di Riavvio, Arresto o Avvio da questo pannello di controllo."
+    "328": "Una o più modifiche al server sono in attesa. Le modifiche possono essere elaborate mediante un'azione di Riavvio, Arresto o Avvio da questo pannello di controllo.",
+    "329": "Disabilitare VNC."
 }

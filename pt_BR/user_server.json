@@ -324,5 +324,6 @@
     "325": "Personalizado",
     "326": "O URL fornecido é inválido. Um URL deve ser formatado corretamente e retornar um código HTTP 200. Redirecionamentos são proibidos.",
     "327": "Alterações pendentes",
-    "328": "Uma ou mais alterações no servidor estão pendentes. As alterações podem ser processadas com a emissão de uma ação de reinicialização, desligamento ou inicialização a partir desse painel de controle."
+    "328": "Uma ou mais alterações no servidor estão pendentes. As alterações podem ser processadas com a emissão de uma ação de reinicialização, desligamento ou inicialização a partir desse painel de controle.",
+    "329": "Desativando a VNC."
 }

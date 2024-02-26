@@ -324,5 +324,6 @@
     "325": "Custom",
     "326": "A megadott URL érvénytelen. Az URL-nek helyesen kell formázottnak lennie, és 200-as HTTP-kódot kell visszaküldenie. Az átirányítás tilos.",
     "327": "Függőben lévő változások",
-    "328": "A kiszolgálón egy vagy több módosítás van folyamatban. A módosításokat az Újraindítás, Leállítás vagy Indítás művelet kiadásával lehet feldolgozni erről a vezérlőpanelről."
+    "328": "A kiszolgálón egy vagy több módosítás van folyamatban. A módosításokat az Újraindítás, Leállítás vagy Indítás művelet kiadásával lehet feldolgozni erről a vezérlőpanelről.",
+    "329": "A VNC letiltása."
 }

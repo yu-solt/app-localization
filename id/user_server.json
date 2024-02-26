@@ -324,5 +324,6 @@
     "325": "Kustom",
     "326": "URL yang diberikan tidak valid. URL harus diformat dengan benar dan mengembalikan kode HTTP 200. Pengalihan ulang dilarang.",
     "327": "Perubahan Tertunda",
-    "328": "Satu atau beberapa perubahan pada server sedang menunggu keputusan. Perubahan dapat diproses dengan mengeluarkan tindakan Restart, Shutdown, atau Boot dari panel kontrol ini."
+    "328": "Satu atau beberapa perubahan pada server sedang menunggu keputusan. Perubahan dapat diproses dengan mengeluarkan tindakan Restart, Shutdown, atau Boot dari panel kontrol ini.",
+    "329": "Menonaktifkan VNC."
 }

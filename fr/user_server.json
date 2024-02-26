@@ -324,5 +324,6 @@
     "325": "Sur mesure",
     "326": "L'URL fournie n'est pas valide. Une URL doit être formatée correctement et renvoyer un code HTTP 200. Les redirections sont interdites.",
     "327": "Changements en cours",
-    "328": "Une ou plusieurs modifications du serveur sont en attente. Les modifications peuvent être traitées en lançant une action de redémarrage, d'arrêt ou de démarrage à partir de ce panneau de contrôle."
+    "328": "Une ou plusieurs modifications du serveur sont en attente. Les modifications peuvent être traitées en lançant une action de redémarrage, d'arrêt ou de démarrage à partir de ce panneau de contrôle.",
+    "329": "Désactivation de VNC."
 }

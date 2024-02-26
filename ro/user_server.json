@@ -324,5 +324,6 @@
     "325": "Personalizat",
     "326": "Adresa URL furnizată nu este validă. O adresă URL trebuie să fie formatată corect și să returneze un cod HTTP 200. Redirecționările sunt interzise.",
     "327": "Modificări în așteptare",
-    "328": "Una sau mai multe modificări ale serverului sunt în așteptare. Modificările pot fi procesate prin emiterea unei acțiuni de repornire, închidere sau pornire din acest panou de control."
+    "328": "Una sau mai multe modificări ale serverului sunt în așteptare. Modificările pot fi procesate prin emiterea unei acțiuni de repornire, închidere sau pornire din acest panou de control.",
+    "329": "Dezactivarea VNC."
 }
